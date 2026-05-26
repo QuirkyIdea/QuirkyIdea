@@ -9,7 +9,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/QuirkyIdea">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%93%B1+Mobile+App+Developer+%7C+Full+Stack+Builder;%F0%9F%A7%A0+AI%2FML+Enthusiast+%7C+GenAI+Developer;%F0%9F%A7%AA+SRM+AP+Computer+Science+Engineering;%F0%9F%9A%80+Creating+Impactful+Real-World+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Mobile+App+Developer+%7C+Full+Stack+Builder;AI%2FML+Enthusiast+%7C+GenAI+Developer;Creating+Impactful+Real-World+Systems" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -24,32 +24,6 @@
 </div>
 
 <!-- WAVE DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
-
-```yaml
-name: Saunaak Mukherji
-handle: QuirkyIdea
-location: Vijayawada, India 🇮🇳
-education: "B.Tech. Computer Science Engineering, SRM University AP (GPA 9.48/10, Top 2%)"
-role: "Full Stack Developer • Mobile App Developer • AI/ML Enthusiast"
-scholarship: "75% Merit Scholarship for academic excellence"
-
-current_focus:
-  professional: "Freelance AI Mobile App Developer at Autometa AI"
-  research: "Associate at Singularity Student Lab | SRM AP (Prajna Kritrima Lab)"
-  motto: "Code is not just logic; it's the bridge between a quirky idea and a real-world impact."
-
-expertise:
-  mobile: [Android (Kotlin), React Native, Android Studio]
-  languages: [Python, Java, Kotlin, C, C++, JavaScript, PHP, Shell Script]
-  backend: [Node.js, Express.js, FastAPI, Flask, REST APIs]
-  frontend: [React.js, Next.js, HTML5, CSS3]
-  databases: [MySQL, MongoDB]
-  ai_ml: [Generative AI, LLM Integration, Prompt Engineering, Scikit-learn, OpenCV, Pandas, NumPy]
-```
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ## 🏆 GitHub Trophies
@@ -205,24 +179,11 @@ expertise:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## 🏅 Credentials & Achievements
-
-- 🥇 **Oracle Certified Java Professional (SE 17)** — Oracle
-- 🤖 **SAP Certified SAP Generative AI Developer** — SAP
-- 🧠 **Machine Learning Specialization** — Coursera (Linear Regression, SVM, Deep Learning — 100% Score)
-- 🏆 **2nd Place** — 'Code for Connection' Hackathon (SAHAY App Team Lead)
-- 🌌 **Top 20 Teams** — Andhra Pradesh Quantum Valley Hackathon (Team Lead)
-- ⚡ **Top 10** — NeoCodeathon
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Saunaak_Mukherji-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/saunaak-mukherji-03b151289/)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/SIZZLINGTHRILL-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/SIZZLINGTHRILL/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/QuirkyIdea-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QuirkyIdea)
 &nbsp;
@@ -254,7 +215,5 @@ expertise:
 <div align="center">
 
 **⚡ Built with passion by [QuirkyIdea](https://github.com/QuirkyIdea) ⚡**
-
-<img src="https://img.shields.io/badge/Made%20with-❤️-00f7ff?style=flat-square&labelColor=0d1117"/>
 
 </div>
